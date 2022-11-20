@@ -1,4 +1,4 @@
-import Alert from "./components/alert";
+import Alert from "./alert";
 function App() {
   return (
     <div className="App">
@@ -15,5 +15,5 @@ function App() {
     </div>
   );
 }
-
+ export default App ;
   
